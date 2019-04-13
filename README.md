@@ -1,4 +1,4 @@
-<h1 align=center color=purple>Math and Statistics</h1> 
+<h2 align=center style="purple;">Math and Statistics</h2> 
 
 > Learning Math and Statistics with programming.
 
