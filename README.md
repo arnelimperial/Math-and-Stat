@@ -3,16 +3,11 @@
 > Reviewing and learning Math and Statistics with programming.
 
 
+|---|
+# Topics
+- Linear System
+- Basic Data Analysis
 
-| Topics                                                     |
-|                                                            |
---------------------------------------------------------------
-| Linear System                                              |
-|                                                            | 
---------------------------------------------------------------
-| Data Analysis                                              |
-|                                                            |
---------------------------------------------------------------
 
 
 ### Prepared by:
