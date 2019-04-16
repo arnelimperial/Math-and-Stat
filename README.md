@@ -4,10 +4,11 @@
 
 
 
-| Topics                      | Description                             |
-|-----------------------------|-----------------------------------------|
-| Linear System               |                                         |  
-| Basic Data Analysis         |                                         | 
+| Topics                      | Description                                                    |
+|-----------------------------|----------------------------------------------------------------|
+| Linear System               | Solving simple/system linear equation with numpy               |                                 
+| Basic Data Analysis         | Excercise from Design and Analysis of Experiments 5th edition  |
+|                             |                                                                |
 
 
 
