@@ -1,8 +1,16 @@
-<h2 align=center style="purple;">Math and Statistics</h2> 
+<h2 align=center>Math and Statistics</h2> 
 
-> Learning Math and Statistics with programming.
+> Reviewing and learning Math and Statistics with programming.
 
----
+----------------------------
+| ### Topics               |
+---------------------------
+| Linear System            |
+---------------------------
+| Basic Data Analysis      |
+----------------------------
+
+
 
 ### Prepared by:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
