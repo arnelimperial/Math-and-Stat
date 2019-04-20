@@ -15,6 +15,6 @@
 
 
 
-### Prepared by:
+##### Contributor/Coder:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
 
