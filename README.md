@@ -15,6 +15,9 @@
 
 
 
+
+##### Note
+Branching starts at <em>Factorization topic/directory</em> and no longer accessible in master branch. 
 ##### Contributor/Coder:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
 
