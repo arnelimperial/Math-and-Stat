@@ -10,8 +10,8 @@
 | Basic Data Analysis         | Excercise from Design and Analysis of Experiments 5th edition                             |
 | Exponents-Radicals-Logs     | Solving Exponential Equation                                                              |
 | Polynomial                  | Find the zeroes of polynomial function                                                    |
-| Factorization               |Finding the factors of polynomial, Greatest Common Factor and Checking for perfect square. |
-|   	                      |                                                                                           |
+| Factorization               | Finding the factors of polynomial, Greatest Common Factor and Checking for perfect square.|
+| Quadratic Equations  	      | Finding the vertex of quad                                                                |
 |                             |                                                                                           |	                                                                                                                      
 
 
