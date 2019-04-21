@@ -19,7 +19,8 @@
 
 
 ##### Note
-Branching starts at <em>Factorization topic/directory</em> and no longer accessible in master branch. 
+- Starting at <em>Factorization topic/directory</em>, all proceeding topics have individual branch and cannot be access in the master. 
+- Linear system, Basic Data Analysis, Exponents-Radicals-Logs and Polynomial are still in themaster branch.
 ##### Contributor/Coder:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
 
