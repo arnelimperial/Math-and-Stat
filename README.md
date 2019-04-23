@@ -24,7 +24,7 @@
 - Linear system, Basic Data Analysis, Exponents-Radicals-Logs and Polynomial are still in themaster branch.
 
 ##### License
-[The Unlicense](https://unlicense.org/)
+MIT
 
 ##### Contributor/Coder:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
