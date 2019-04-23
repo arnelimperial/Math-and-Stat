@@ -1,6 +1,6 @@
 <h2 align=center>Math and Statistics</h2> 
 
-> Reviewing and learning Math and Statistics with programming.
+> Reviewing and learning Math and Statistics with programming in Python.
 
 
 
