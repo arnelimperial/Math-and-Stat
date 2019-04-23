@@ -12,7 +12,7 @@
 | Polynomial                  | Find the zeroes of polynomial function                                                    |
 | Factorization               | Finding the factors of polynomial, Greatest Common Factor and Checking for perfect square.|
 | Quadratic Equations  	      | Finding vertices and line symmetry, factoring equations, solving for the roots.           |
-| Quadratic Formula           | Solving equations using quadratic formula                                                 |                                                              |
+| Quadratic Formula           | Solving equations using quadratic formula                                                 |                                                              
 |                             |                                                                                           |	                                                                                                                      
 
 
@@ -22,6 +22,10 @@
 ##### Note
 - Starting at <em>Factorization topic/directory</em>, all proceeding topics have individual branch and cannot be access in the master. 
 - Linear system, Basic Data Analysis, Exponents-Radicals-Logs and Polynomial are still in themaster branch.
+
+##### License
+[The Unlicense](https://unlicense.org/)
+
 ##### Contributor/Coder:
 [Arnel Imperial](https://arnelimperial.bitbucket.io)
 
