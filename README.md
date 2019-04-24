@@ -12,8 +12,8 @@
 | Polynomial                  | Find the zeroes of polynomial function                                                    |
 | Factorization               | Finding the factors of polynomial, Greatest Common Factor and Checking for perfect square.|
 | Quadratic Equations  	      | Finding vertices and line symmetry, factoring equations, solving for the roots.           |
-| Quadratic Formula           | Solving equations using quadratic formula                                                 |                                                              
-|                             |                                                                                           |	                                                                                                                      
+| Quadratic Formula           | Solving polynomial equations using quadratic formula                                      |                                                              
+| Functions                   | Finding the Domain and Range of the function.                                             |	                                                                                                                      
 
 
 
