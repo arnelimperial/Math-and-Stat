@@ -13,7 +13,7 @@
 | Factorization               | Finding the factors of polynomial, Greatest Common Factor and Checking for perfect square.|
 | Quadratic Equations  	      | Finding vertices and line symmetry, factoring equation, solving for the roots.            |
 | Quadratic Formula           | Solving equation using quadratic formula                                                  |	                                                                                                                      
-
+| Rate of Change              | Solving average rate of change of non-linear equation.                                    |
 
 
 ##### Contributor/Coder:
