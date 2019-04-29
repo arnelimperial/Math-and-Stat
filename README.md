@@ -14,7 +14,7 @@
 | Quadratic Equations  	      | Finding vertices and line symmetry, factoring equations, solving for the roots.           |
 | Quadratic Formula           | Solving polynomial equations using quadratic formula                                      |                                                              
 | Functions                   | Finding the Domain and Range of the function.                                             |	                                                                                                                      
-
+|Rate of Change               | Solving average rate of change of non-linear equation                                     | 
 
 
 
